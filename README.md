@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Seoyeon's%20Dev%20Log&fontSize=40)
 
-<h3 align="center">💻 프론트엔드 개발자 서연입니다! ✨</h3>
+<h3 align="center">💻 프론트엔드 개발자 김서연입니다!</h3>
 
 ---
 
