@@ -28,7 +28,7 @@
 ---
 
 ### 📬 Contact
-**Email**: your-email@example.com
+**Email**: s25037@gsm.hs.kr
 
 </div>
 
