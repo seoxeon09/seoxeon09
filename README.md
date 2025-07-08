@@ -1,39 +1,36 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=200&section=header&text=Seoyeon's%20Dev%20Log&fontSize=40)
+<!-- 헤더 -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=SEOYEON%20PORTFOLIO&fontColor=ffffff&fontSize=40&fontAlignY=40&desc=Front-end%20Developer%20Journey&descAlignY=65&descAlign=50)
 
-<h3 align="center">💻 프론트엔드 개발자 김서연입니다!</h3>
+<div align="center">
 
----
-
-### 🙋‍♀️ About Me
-
-- 🏫 마이스터고 1학년 / 프론트엔드 전공
-- 🌱 지금은 HTML, CSS, JavaScript, Git, React 등 열심히 공부 중!
-- 🎮 사이드 프로젝트: Snake Game, 지뢰찾기, 회원가입 페이지 등 만들었어요!
-- ☁️ 목표: 귀엽고 깔끔한 UI로 누구나 쓰기 쉬운 웹 만들기!
+### 🧑‍💻 About Me
+프론트엔드 개발자를 꿈꾸는 마이스터고 1학년 서연입니다.  
+간결하고 직관적인 UI/UX를 만드는 걸 좋아하고,  
+기술뿐 아니라 "사용자 경험"을 함께 고민합니다.
 
 ---
 
-### 💻 Tech Stack
+### ⚙️ Tech Stack
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-
----
-
-### ✨ My GitHub Stats
-
-![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoxeon09&show_icons=true&theme=tokyonight)
+<img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VSCode-000000?style=flat&logo=visualstudiocode&logoColor=white"/>
 
 ---
 
-### 📫 Contact
+### 📈 GitHub Stats
 
-- 📮 Email: **s25037@gsm.hs.kr**
-- 📌 깃허브에 놀러와 주세요~ 😊
+![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoxeon09&show_icons=true&theme=graywhite&hide_border=true)
 
 ---
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=Venom)
+### 📬 Contact
+**Email**: your-email@example.com
+
+</div>
+
+<!-- 푸터 -->
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:000000,100:434343)
