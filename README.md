@@ -27,8 +27,8 @@
 ---
 
 ### 📬 Contact
-**Email**: s25037@gsm.hs.kr
-**Instagram**: @s2.yeons
+**Email**: s25037@gsm.hs.kr <br>
+**Instagram**: @s2.yeons <br>
 **Discord**: seoxeon.09
 
 </div>
