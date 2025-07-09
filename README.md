@@ -11,8 +11,8 @@
 
 ### ⚙️ Tech Stack
 
-<img src="https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
