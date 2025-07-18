@@ -24,6 +24,7 @@
 
 ![Seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoxeon09&show_icons=true&theme=graywhite&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoxeon09&layout=compact&theme=graywhite&hide_border=true&hide=c++)
 ---
 
 ### 📬 Contact
