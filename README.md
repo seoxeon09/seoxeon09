@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1e1e1e,100:3b3b3b&height=230&section=header&text=Front-end%20✨&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Creative%20UI%20%7C%20Clean%20Code%20%7C%20Modern%20Front-end&descAlign=50&descAlignY=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FFE4EC,FFFFFF&height=240&section=header&text=seoyeon&fontSize=42&fontColor=FF8DAA&fontAlign=50&fontAlignY=40&desc=Front-end&descAlign=50&descAlignY=70&animation=fadeIn)
