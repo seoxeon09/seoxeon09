@@ -1,5 +1,5 @@
 <!-- 헤더 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=SEOYEON&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40&desc=Front-end%20Developer%20Journey&descAlign=50&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=SEOYEON&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40&desc=&descAlign=50&descAlignY=65)
 
 <div align="center">
 
