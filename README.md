@@ -13,6 +13,9 @@ Front-end Developer
 <img src="https://img.shields.io/badge/HTML-000000?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-000000?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-000000?style=flat&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-000000?style=flat&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VSCode-000000?style=flat&logo=visualstudiocode&logoColor=white"/>
