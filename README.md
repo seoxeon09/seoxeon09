@@ -1,4 +1,4 @@
-<!-- 헤더 -->
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=SEOYEON&fontColor=ffffff&fontSize=40&fontAlign=50&fontAlignY=40&desc=&descAlign=50&descAlignY=65)
 
 <div align="center">
@@ -22,4 +22,19 @@ Front-end Developer
 
 ---
 
+# GitHub Stats
+
+<div align="center">
+
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=000000&labelColor=FFFFFF" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&color=FFFFFF&labelColor=000000" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=000000&color=FFFFFF&labelColor=000000" alt="Tailwind CSS" />
+
+<br /><br />
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=seoxeon09&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+</div>
 
