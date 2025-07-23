@@ -22,20 +22,25 @@ Front-end Developer
 
 ---
 
-# GitHub Stats
+## 📬 Contact
 
 <div align="center">
 
-### 주요 기술
-
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white)
-- ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css&logoColor=white)
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=seoxeon09&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:s25037@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/seoxeon09)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/s2.yeons)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white)](https://velog.io/@seoxeon09)
 
 </div>
+
+
+
+
+
+
+
+
+
+
 
 
