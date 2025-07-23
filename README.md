@@ -26,15 +26,16 @@ Front-end Developer
 
 <div align="center">
 
+### 주요 기술
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&color=000000&labelColor=FFFFFF" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000&color=FFFFFF&labelColor=000000" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=000000&color=FFFFFF&labelColor=000000" alt="Tailwind CSS" />
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=white)
+- ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css&logoColor=white)
 
-<br /><br />
-
+<br />
 
 <img src="https://github-readme-stats.vercel.app/api?username=seoxeon09&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
 </div>
+
 
