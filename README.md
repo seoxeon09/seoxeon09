@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👩🏻‍💻 Contact
+## 👩🏻‍💻 
 
 <div align="center">
 
